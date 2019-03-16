@@ -1,0 +1,7 @@
+CREATE TABLE todo (
+ id INT NOT NULL PRIMARY KEY, 
+nombre VARCHAR(200), 
+fecha VARCHAR(200), 
+compania VARCHAR(200),
+ palabra VARCHAR(1000)
+imagen varchar(2000) );
