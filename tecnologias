@@ -1,0 +1,11 @@
+Jossie Bismarck Castrillo Fajardo				201313692
+
+Tecnologías:
+
+•	EC2: este es el servicio de amazon para procesamiento, es una maquina virtual con sistema operativo Ubuntu 18.04 para manejarlo como servidor.
+•	RDS: este servicio es de bases de datos relacionales.
+•	S3: es el servicio de almacenamiento de objetos de amazon, en el se pueden guardar objetos de todo tipo y formato, es sumamente potente y escalable.
+•	Mysql 5.6 como la base de datos para el manejo de información, esta esta en otra subred del proyecto.
+•	Php como el lenguaje de programación para la pagina web.
+•	Nginx: será mi servidor de aplicaciones web.
+•	Multer: este crea un cuerpo de o objetos para un request, es una librería para subir archivos a un servidor.
